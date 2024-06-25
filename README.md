@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **streaming webapp**
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/Sumit5089?tab=repositories"></a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/Sumit5089?tab=repositories">projects</a>
 
 - 💬 Ask me about **express,mongodb,node,react,tailwind**
 
