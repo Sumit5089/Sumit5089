@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **react**
 
-- 👯 I’m looking to collaborate on **streaming webapp**
+- 👯 I’m looking to collaborate on **video sharing and streaming webapp**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/Sumit5089?tab=repositories">projects</a>
 
